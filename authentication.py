@@ -69,7 +69,7 @@ class listUser(object):
 def main():
     ls = listUser("ls")
     ls.loadList("user.obj")
-    # ls.printList()
+    ls.printList()
     print ls.authen()
 
 main()

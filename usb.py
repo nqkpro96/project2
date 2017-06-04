@@ -39,6 +39,6 @@ def main():
 	observer.daemon = False
 	observer.start()
 	    
-	    
+print 1  
 print main()
-
+print 2
